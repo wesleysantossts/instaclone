@@ -2,6 +2,10 @@
 
 Clone do Instagram desenvolvido durante o curso de React-Native.
 
+<div display="flex" align="center">
+  <img src="./src/img/instaclone.png" height="350px">
+</div>
+
 ## Primeiros passos
 
 * Clone este repositório na sua máquina.
